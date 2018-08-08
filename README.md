@@ -8,3 +8,5 @@ This repository includes the Bertini input data and gloptypoly source code used 
 3.) Input data for the Rigid, but not infinitesimal rigid case
 
 4.) Source code for gloptypoly
+
+5.) Input file for positive dimensional run on the BMN structure
